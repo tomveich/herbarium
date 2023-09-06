@@ -26,7 +26,7 @@ footer {
     border-top: 2px solid currentColor;
 }
 
-header, footer, body {
+header, footer, main {
     padding: 1rem;
 }
 
