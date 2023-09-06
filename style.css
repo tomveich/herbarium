@@ -6,3 +6,18 @@ body {
 img {
     max-height: 50vh;
 }
+
+header {
+    border-bottom: 2px solid currentColor;
+
+    &>.logo {
+        text-transform: uppercase;
+        font-weight: 600;
+    }
+}
+
+
+
+footer {
+    border-top: 2px solid currentColor;
+}
