@@ -1,0 +1,8 @@
+body {
+    background-color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img {
+    max-height: 50vh;
+}
