@@ -1,6 +1,7 @@
 body {
     background-color: white;
     font-family: 'Courier New', Courier, monospace;
+    margin: 0;
 }
 
 img {
@@ -20,4 +21,8 @@ header {
 
 footer {
     border-top: 2px solid currentColor;
+}
+
+header, footer, body {
+    padding: 1rem;
 }

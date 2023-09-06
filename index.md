@@ -37,8 +37,3 @@
 34. [Podkovka chochlatá](./horseshoe_vetch/)
 35. [Tavoľník japonský](./japanese_spiraea/)
 36. [Ostrôžka záhradná](./larkspur/)
-
-
-
-
-## Todo: Compress photos + remove metadata
