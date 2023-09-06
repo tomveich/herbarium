@@ -9,11 +9,14 @@ img {
 }
 
 header {
+    color: darkcyan;
+
     border-bottom: 2px solid currentColor;
 
-    &>.logo {
+    &>a.logo {
         text-transform: uppercase;
         font-weight: 600;
+        color: currentColor;
     }
 }
 
@@ -25,4 +28,8 @@ footer {
 
 header, footer, body {
     padding: 1rem;
+}
+
+header, footer {
+    background-color: lightgreen;
 }
