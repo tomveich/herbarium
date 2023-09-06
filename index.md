@@ -1,7 +1,7 @@
 # Herbár
 
 1. [Zbehovec plazivý](./ajuga/)
-2. [=X= Angel's fishing rods](./angels_fishing_rods/)
+2. [Mečík močiarny](./angels_fishing_rods/)
 3. [Skalník Dammerov](./bearberry_cotoneaster/)
 4. [Vŕba sivá](./bitter_willow/)
 5. [Veternica iskerníkovitá](./buttercup_anemone/)
