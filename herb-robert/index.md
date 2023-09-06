@@ -4,7 +4,12 @@
 
 ![Pakost smradľavý](./herb-robert.jpg "Pakost smradľavý")
 
-- Čeľaď: Pakostovité (Geraniaceae)
+Čeľaď: Pakostovité (Geraniaceae)
+
+- Prenikavo páchnuca jedno- až dvojročná bylina
+- Mierne počopudné účinky
+- Zastavuje krvácanie
+
 
 
 Zdr.:

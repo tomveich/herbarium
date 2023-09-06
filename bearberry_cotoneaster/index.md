@@ -2,7 +2,7 @@
 - Lat.: Cotoneaster dammeri
 - En.: Bearberry Cotoneaster
 
-![Skalník Dammerov](./DSC09068-01.jpg "Skalník Dammerov")
+![Skalník Dammerov](./bearberry_cotoneaster.jpg "Skalník Dammerov")
 
 Čeľaď: Ružovité
 

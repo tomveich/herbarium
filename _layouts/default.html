@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% if page.title %}{{ page.title }} | Herbarium{% else %}Herbarium{% endif %}</title>
+    <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+    <header>
+        <a href="/" class="logo">Herbarium</a>
+    </header>
+    <main>
+        {{content}}
+    </main>
+    <footer>
+        &copy; oli.cx, 2023
+    </footer>
+</body>
+</html>
