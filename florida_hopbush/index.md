@@ -2,7 +2,7 @@
 - Lat.: Dodonaea viscosa
 - En.: Florida hopbush
 
-![Dodonka](./ "Dodonka")
+![Dodonka](./florida_hopbush.jpg  "Dodonka")
 
 Čeľaď: Mydlovníkovité (Sapindaceae)
 

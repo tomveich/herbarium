@@ -2,7 +2,7 @@
 - Lat.: Passiflora caerulea
 - En.: Common passion flower
 
-![Múčenka](./ "Múčenka")
+![Múčenka](./passion_flower.jpg "Múčenka")
 
 Čeľaď: Passifloraceae
 
