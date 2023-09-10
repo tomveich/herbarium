@@ -2,7 +2,7 @@
 - Lat: Bellis perennis
 - En: Daisy
 
-![Sedmokráska obyčjaná](./daisy.jpeg "Sedmokráska obyčjaná")
+![Sedmokráska obyčjaná](./daisy.jpg "Sedmokráska obyčjaná")
 
 Čeľaď: Astrovité (Asteraceae)
 

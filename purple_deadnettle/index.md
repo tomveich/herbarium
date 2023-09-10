@@ -2,7 +2,7 @@
 - Lat.: Lamium purpureum
 - En.: Purple deadnettle
 
-![Hluchavka nachová](./purple_deadnettle.jpeg "Hluchavka nachová")
+![Hluchavka nachová](./purple_deadnettle.jpg "Hluchavka nachová")
 
 Čeľaď: Hluchavkovité
 

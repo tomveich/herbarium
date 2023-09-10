@@ -2,7 +2,7 @@
 - Lat.: Salvia rosmarinus
 - En.: Rosemary
 
-![Rozmarín](./rosemary.jpeg "Rozmarín")
+![Rozmarín](./rosemary.jpg "Rozmarín")
 
 Čeľaď: Hluchavkovité
 
