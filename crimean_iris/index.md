@@ -1,8 +1,8 @@
-# Kosatec Divoká ľalia
+# Kosatec žiarivý
 - Lat.: Iris lutescens
 - En.: Crimean iris
 
-![Kosatec](./iris.jpg "Kosatec")
+![Kosatec žiarivý](./iris.jpg "Kosatec žiarivý")
 
 Čeľaď: Kosatcovité (Iris)
 
