@@ -2,7 +2,7 @@
 - Lat.: Jacobaea maritima
 - En.: Silver ragwort
 
-![Starček prímorský](./dusty_miller "Starček prímorský")
+![Starček prímorský](./dusty_miller.jpg "Starček prímorský")
 
 Čeľaď: Astrovité (Asteraceae)
 

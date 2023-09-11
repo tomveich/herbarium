@@ -2,7 +2,7 @@
 - Lat.: Daphne mezereum
 - En.: Mezereon
 
-![Lykovec jedovatý](./mezereon "Lykovec jedovatý")
+![Lykovec jedovatý](./mezereon.jpg "Lykovec jedovatý")
 
 Čeľaď: Thymelaeaceae
 

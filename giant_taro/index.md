@@ -6,7 +6,7 @@
 
 Čeľaď: 
 
-- Obrovské listt
+- Obrovské listy
 - Môže dorastať až 2m
 - Pôvodne rastie v lesoch na Filipínach
 

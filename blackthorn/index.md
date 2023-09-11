@@ -2,7 +2,7 @@
 - Lat.: Prunus spinosa L.
 - En.: Blackthorn
 
-![Slivka trnková](./blackthorn "Slivka trnková")
+![Slivka trnková](./blackthorn.jpg "Slivka trnková")
 
 Čeľaď: Ružovité (Rosaceae)
 

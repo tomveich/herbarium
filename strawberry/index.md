@@ -1,6 +1,6 @@
 # Jahoda obyčajná
 - Lat.: Fragaria × ananassa
-- En.:
+- En.: Strawberry
 
 ![Jahoda obyčajná](./strawberry.jpg "Jahoda obyčajná")
 

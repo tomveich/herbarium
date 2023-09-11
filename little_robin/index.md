@@ -2,6 +2,7 @@
 - Lat.: Geranium purpureum
 - En.: Little Robin
 
+![Pakost purpurový](./little_robin.jpg "Pakost purpurový")
 
 - 20-30cm bylina
 - 5-početné listy

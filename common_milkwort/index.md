@@ -2,7 +2,7 @@
 - Lat.: Polygala vulgaris
 - En.: Common milkwort
 
-![Horčinka obyčajná](./miklwort.jpg "Horčinka obyčajná")
+![Horčinka obyčajná](./milkwort.jpg "Horčinka obyčajná")
 
 Čeľaď: Polygalaceae
 

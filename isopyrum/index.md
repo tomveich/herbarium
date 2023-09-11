@@ -2,7 +2,7 @@
 - Lat.: Isopyrum thalictroides
 - En.: Isopyrum
 
-![](./ "")
+![Veterník žltuškovitý](./isopyrum.jpg "Veterník žltuškovitý")
 
 Čeľaď: Ranunculaceae
 
