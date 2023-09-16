@@ -7,6 +7,7 @@
 - 10-120cm vysoká
 - Rastline vyhovuje silné slnko 
 
+Obs.: May 15, 2023 17:05; Slovakia
 
 Zdr.:
 - https://www.gardenia.net/plant/gilia-capitata

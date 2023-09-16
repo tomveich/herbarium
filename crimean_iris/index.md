@@ -14,4 +14,5 @@
 
 Obs.: 5. 10. 2023 Nitra, Slovak Republic
 
-Zdr.: https://www.jardineriaon.com/sk/d%C3%BAhovka-lutescens.html
+Zdr.:
+- https://www.jardineriaon.com/sk/d%C3%BAhovka-lutescens.html

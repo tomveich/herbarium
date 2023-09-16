@@ -12,6 +12,7 @@
 - Zvlnené okraje listov
 - Rastie v blízkosti vody, 300 - 1200 m.n.m.
 
-Obs.: 9. 7. 2023 Čingov, Slovak Republic
+Obs.: July 09, 2023 13:18; Slovakia
 
-Zdr.: https://www.atlasdrevin.sk/druh/10-vrba-siva
+Zdr.:
+- https://www.atlasdrevin.sk/druh/10-vrba-siva

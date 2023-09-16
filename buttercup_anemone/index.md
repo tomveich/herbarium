@@ -12,6 +12,7 @@
 - Pôda - vlhká, živná
 - Rastie v nížinách, často neďaleko vody
 
-Obs.: 8. 4. 2023 Nitra, Slovak Republic
+Obs.: April 08, 2023 17:40; Slovakia
 
-Zdr.: https://www.zahrada-sk.com/e/sk/00077-veternica-iskern%C3%ADkovit%C3%A1-anemone-ranunculoides/
+Zdr.:
+- https://www.zahrada-sk.com/e/sk/00077-veternica-iskern%C3%ADkovit%C3%A1-anemone-ranunculoides/

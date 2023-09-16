@@ -11,5 +11,7 @@
 - Trpké plody
 - Množstvo brachyblastov
 
+Obs.: July 09, 2023 10:58; Čingov, Slovakia
+
 Zdr:
 - https://www.atlasdrevin.sk/druh/67-slivka-trnkova-trnka

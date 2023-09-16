@@ -10,4 +10,5 @@
 - Listy v prízemnej ružici
 - Rastie v rôznych habitátoch
 
-Zdr.: http://www.kvetenacr.cz/detail.asp?IDdetail=287
+Zdr.:
+- http://www.kvetenacr.cz/detail.asp?IDdetail=287

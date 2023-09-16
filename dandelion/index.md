@@ -17,4 +17,7 @@ Opelovači
 - Široké spektrum ekologickej valencie
 - Efektívna distribúcia semien vetrom
 
-Zdr.: https://www.cabidigitallibrary.org/doi/10.1079/cabicompendium.52773
+Obs.: July 09, 2023 10:55; Slovakia
+
+Zdr.: 
+- https://www.cabidigitallibrary.org/doi/10.1079/cabicompendium.52773

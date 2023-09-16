@@ -10,5 +10,7 @@
 - Stanovisko: Vlhké, mokravé skaly
 - Subalpínske až alpínske pásmo
 
+Obs.: July 09, 2023 11:27; Čingov, Slovakia
+
 Zdr:
 - https://www.nahuby.sk/atlas-rastlin/Pinguicula-alpina/tucnica-alpinska/tucnice-alpska/ID8214

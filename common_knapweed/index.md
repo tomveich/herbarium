@@ -9,6 +9,8 @@
 - 0.3-1.5m vysoká bylina
 - Dobrá pre opelovačov (veľa nektáru a peľu)
 
+Obs.: July 09, 2023 15:42; Čingov, Slovakia
+
 Zdr:
 - https://pfaf.org/user/Plant.aspx?LatinName=Centaurea+nigra
 - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4920406/

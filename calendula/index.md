@@ -12,6 +12,7 @@
 - Výška - 70cm
 - Pochádza z južnej Európy
 
-Obs.: 10. 5. 2023 Nitra, Slovak Republic
+Obs.: July 08, 2023 18:23, Slovakia
 
-Zdr.: https://www.zahrada-sk.com/e/sk/00157-necht%C3%ADk-lek%C3%A1rsky-calendula-officinalis/
+Zdr.:
+- https://www.zahrada-sk.com/e/sk/00157-necht%C3%ADk-lek%C3%A1rsky-calendula-officinalis/

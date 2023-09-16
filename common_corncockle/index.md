@@ -10,6 +10,8 @@
 - Ceľá rastlina je jedovatá
 - Rastie ako burina v obilí
 
+Obs.: May 28, 2023 15:05, Slovakia
+
 Zdr.:
 - https://portal.nature.cz/publik_syst/nd_nalez-public.php?idTaxon=35138
 - https://botany.cz/cs/agrostemma-githago/

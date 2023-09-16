@@ -10,6 +10,7 @@
 - Pochádza z oblasti Číny
 - Rastie v chladných, vlhkých podmienkach 1000-4000 m.n.m.
 
-Obs.: 10. 5. 2023 Nitra, Slovak Republic
+Obs.: May 10, 2023 16:52; Slovakia
 
-Zdr.: http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=242315057
+Zdr.:
+- http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=242315057

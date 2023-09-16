@@ -10,7 +10,8 @@
 - 10-30cm
 - V krovinách, pri potokoch
 
-Obs.: 10. 5. 2023 Nitra
+Obs.: May 10, 2023 16:51; Slovakia
 
-Zdr.: https://mojerastliny.sk/zbehovec-plazivy/
+Zdr.:
+- https://mojerastliny.sk/zbehovec-plazivy/
 

@@ -10,6 +10,8 @@
 - Kvety umiestnené na dlhých stonkách
 - Kvety veľké 2mm
 
+Obs.: July 09, 2023 11:24; Čingov, Slovakia
+
 Zdr:
 - https://www.biolib.cz/cz/taxon/id503338/
 - https://botany.cz/cs/astrantia-carniolica/
